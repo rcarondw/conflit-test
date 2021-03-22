@@ -1,1 +1,2 @@
-# conflit-test
+REMOTE
+
