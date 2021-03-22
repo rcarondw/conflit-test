@@ -1,1 +1,1 @@
-# conflit-test
+LOCAL
